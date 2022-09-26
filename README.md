@@ -28,4 +28,4 @@ Posteriormente se calculó el centroide de cada una y se obtuvo le tracking de l
 El análisis estadístico permitió obtener el coeficiente de difusión, i.e, la dinámica asociada a la interacción.
 
 <img align="left" width="278" height="292" src="v-h-algas/Voronoi/image/voronoi-t-1.jpg"> 
-<img align="right" width="690" height="292" src="/v-h-algas/download.png">
+<img align="right" width="670" height="292" src="/v-h-algas/download.png">
